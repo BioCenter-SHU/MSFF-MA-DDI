@@ -6,4 +6,5 @@ The dataset used in this work can be found in the "data" folder, including 572 d
 
 ## 2.code
 First, use python sequence_feature.py to get drug sequence features and use python heterogeneous_feature.py to get drug heterogeneous features.
-Second, if you want to train and test the model, use python multi_source fusion.py. If you want to run task A, use python task_A.py. If you want to run task B, use python task_B.py.
+Second, use python multi_source fusion.py to train and test the model under the warm start scenario.
+Third, if you want to run task A, use python task_A.py. If you want to run task B, use python task_B.py.
