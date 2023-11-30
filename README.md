@@ -2,7 +2,7 @@
 This is the repository of the work "MSFF-MA-DDI: Multi-Source Feature Fusion with Multiple Attention blocks for predicting Drug-Drug Interaction events"
 
 ## 1.dependency
-The package required for this work can be found in "requirements.txt".
+The packages required for this work can be found in "requirements.txt".
 
 ## 2.data
 The dataset used in this work can be found in the "data" folder, including 572 drugs (drug572.csv), 37264 pairs of associated events (event.csv), 65 types corresponding to the events (type572.txt), similarity features (smile_embedding.txt, target_embedding.txt, enzyme_embedding.txt), SMILES sequences of the drugs (smile572.txt).
